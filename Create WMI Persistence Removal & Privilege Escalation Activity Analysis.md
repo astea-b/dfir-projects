@@ -1,5 +1,6 @@
 **WMI Persistence Removal & Privilege Escalation Activity Analysis**  
 **System:** IEWIN7 (Windows 7, Sysmon Operational Log)  
+****xml: https://github.com/astea-b/dfir-projects/blob/main/WMI%20Persistence.xml****
 
 ## ****1\. Executive Summary****
 
