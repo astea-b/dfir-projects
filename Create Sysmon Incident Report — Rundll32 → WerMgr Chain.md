@@ -1,5 +1,5 @@
 # ****Sysmon Incident Report — Rundll32 → WerMgr Chain****
-##****xml: https://github.com/astea-b/dfir-projects/blob/main/Rundll32.xml****
+****xml: https://github.com/astea-b/dfir-projects/blob/main/Rundll32.xml****
 
 ## ****1\. Executive Summary****
 
