@@ -1,6 +1,6 @@
- ****RunKey Persistence Activity — Technical Report****
- ***Events 1–7 (Sysmon Operational Log)***
- ***xml:https://github.com/astea-b/dfir-projects/blob/main/RunKey%20Persistence.xml***
+**RunKey Persistence Activity — Technical Report**
+**Events 1–7 (Sysmon Operational Log)**
+****xml:https://github.com/astea-b/dfir-projects/blob/main/RunKey%20Persistence.xml****
 
 ## ****1\. Executive Summary****
 
